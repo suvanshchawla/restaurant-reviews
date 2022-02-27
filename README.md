@@ -7,4 +7,5 @@ Created this to learn about the functioning of MERN stack and not necessarily wi
 The app can be cloned and be run
 
 in /backend folder run - nodemon server
+
 in /frontend folder run - npm start
